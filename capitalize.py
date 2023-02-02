@@ -1,3 +1,3 @@
-name = input()
-ans = name.title()
+names = input()
+ans = names.title()
 print(ans)
